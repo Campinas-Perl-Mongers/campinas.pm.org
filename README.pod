@@ -1,5 +1,7 @@
 =pod
 
+=encoding utf8
+
 =head2 Site da Campinas Perl Mongers
 
 L<http://campinas.pm.org>
