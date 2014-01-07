@@ -1,0 +1,42 @@
+=pod
+
+=head2 Site da Campinas Perl Mongers
+
+L<http://campinas.pm.org>
+
+
+=head3 Descrição
+
+Campinas Perl Monger é uma comunidade de programadores, usuários e 
+entusiastas da linguagem de programação Perl
+
+
+=head3 Executando
+
+Bom, é só dar dois cliques e abrir em qualquer navegador! ;-P
+
+O html gerado neste projeto vai se transformar em um template para
+a plataforma de publicação Movable Type que será utilizada para 
+manter e administrar site e conteúdo.
+
+Leia mais sobre o Movable Type em:
+
+L<http://movabletype.org>
+
+
+=head3 Autor 
+
+Bivee - L<http://bivee.com.br>
+
+Layout e site criados pela empresa Bivee cedidos gentilmente para a
+comunidade.
+
+
+=head3 Licença e Copyright
+
+(c) 2014 Campinas Perl Monger - L<http://campinas.pm.org>
+
+A manutenção do site é de responsabilidade da comunidade e os conteúdos
+são de responsabilidade do respectivo criador.
+
+=cut
